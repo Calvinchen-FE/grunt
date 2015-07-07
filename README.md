@@ -35,9 +35,14 @@ bower install http://example.com/script.js
 ### 安装generator-webapp并创建项目目录
 ```sh
 npm install -g generator-webapp
+```
+```sh
 yo webapp
+```
+```sh
 grunt //building
-
+```
+```sh
 grunt serve //preview
 ```
 
