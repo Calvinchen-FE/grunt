@@ -22,10 +22,16 @@ npm install -g bower
 ```sh
 #registered package
 bower install jquery
+```
+```sh
 #gitHub shorthand
 bower install desandro/masonry
+```
+```sh
 #git endpoint
 bower install git://github.com/user/package.git
+```
+```sh
 #URL
 bower install http://example.com/script.js
 ```
