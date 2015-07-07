@@ -5,13 +5,13 @@ Web app generator
 ```sh
 npm install -g grunt-cli
 ```
-[参照](http://gruntjs.com/getting-started)
+[参照grunt官网](http://gruntjs.com/getting-started)
 安装yeoman
 -----------------------------------
 ```sh
 npm install -g yo
-
-[参照](http://yeoman.io/ )
+```
+[参照yeoman官网](http://yeoman.io/ )
 安装bower
 -----------------------------------
 ```sh
@@ -29,7 +29,7 @@ bower install git://github.com/user/package.git
 #URL
 bower install http://example.com/script.js
 ```
-[参照](http://bower.io/ )
+[参照bower官网](http://bower.io/ )
 <br>
 
 ### 安装generator-webapp并创建项目目录
@@ -44,4 +44,4 @@ grunt serve //preview
 
 
 
-[参照](https://github.com/yeoman/generator-webapp)
+[参照https://github.com/yeoman/generator-webapp](https://github.com/yeoman/generator-webapp)
